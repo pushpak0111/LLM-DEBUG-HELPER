@@ -22,12 +22,18 @@ Built with a clean Streamlit interface and designed to make debugging faster, ea
 
 ## 📂 Project Structure
 
+```
 LLM-DEBUG-HELPER/
 │
-├── debug_helper.py # Main Streamlit app
-├── requirements.txt # Python dependencies
-├── README.md # Project documentation
+├── assets/
+│   └── screenshot.png        # App screenshot (optional)
+│
+├── debug_helper.py           # Main Streamlit application
+├── requirements.txt          # Python dependencies
+├── README.md                 # Project documentation
+└── .env                      
 
+```
 ---
 
 ## 🛠️ Installation & Setup
